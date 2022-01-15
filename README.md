@@ -1,2 +1,2 @@
 # dsci552
-# this is for the course machine learning
+# This is for the Alleria's course machine learning
